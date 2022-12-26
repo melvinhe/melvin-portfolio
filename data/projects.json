@@ -1,0 +1,16 @@
+[
+    {
+        "title":"Time Tracker",
+        "description":"Web app that lets Brown University students track, visualize, and compare how much time they spend on specific classes",
+        "image":"project_images/nelsonbot.jpg",
+        "href":"https://github.com/melvinhe/TimeTracker",
+        "stack": [
+          "Firebase",
+          "Next.js",
+          "React",
+          "Tailwind CSS",
+          "Selenium",
+          "Java"
+        ]
+      }
+]

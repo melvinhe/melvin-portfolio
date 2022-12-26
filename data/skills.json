@@ -1,0 +1,36 @@
+[
+    {
+        "title":"Languages",
+        "items":[
+            "Python",
+            "Java",
+            "Javascript",
+            "Typescript",
+            "HTML",
+            "CSS",
+            "C",
+            "C++",
+            "MATLAB",
+            "Pyret",
+            "Racket"
+        ]
+    },
+    {
+        "title":"Other Tools and Services",
+        "items":[
+            "Numpy",
+            "OpenCV",
+            "TensorFlow",
+            "Docker",
+            "Confluence",
+            "AWS",
+            "Jira",
+            "Git",
+            "LaTeX",
+            "MS Office Suite",
+            "Google Suite",
+            "Jupyter Notebook",
+            "Selenium"
+        ]
+    }
+]

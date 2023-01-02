@@ -1,6 +1,6 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document'
 
-class MyDocument extends Document {
+export default class MyDocument extends Document {
   static async getInitialProps(ctx) {
     const initialProps = await Document.getInitialProps(ctx)
     return { ...initialProps }
@@ -38,7 +38,7 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="Welcome to Melvin He's website! Here you can find out more about me and what I've been up to."
+            content="Welcome to Melvin He's website!"
           />
           <meta
             property="og:url"
@@ -52,5 +52,3 @@ class MyDocument extends Document {
     )
   }
 }
-
-export default MyDocument

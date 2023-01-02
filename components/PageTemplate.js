@@ -7,13 +7,8 @@ const PageTemplate = ({children}) => {
                 <Navbar/>
             </header>
             <main className="max-w-4xl mx-auto px-4 pb-24 pt-28">
-                page template test
                 {children}
             </main>
-            <footer>
-                footer here
-                {/*TODO*/}
-            </footer>
         </div>
     </div>
 }

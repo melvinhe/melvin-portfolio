@@ -1,5 +1,5 @@
 import PageTemplate from "../components/PageTemplate"
-import salutations from "../utils/salutations"
+import salutations from "../features/salutations"
 import Projects from "../components/PageSections/Projects"
 import Experiences from "../components/PageSections/Experiences"
 import Researches from "../components/PageSections/Researches"
@@ -14,13 +14,12 @@ import researches from "../data/researches"
 export default function Home() {
     return <PageTemplate>
         <div className="space-y-24">
-            {/*Page header + description*/}
             <div>
                 <h1 className="text-gray-900 dark:text-white">
-                    <span className="max-w-4xl mt-5 text-lg md:text-xl">{salutations()}, My name is Melvin.</span>
+                    <span className="max-w-4xl mt-5 text-lg md:text-xl">{salutations()}, I'm Melvin He.</span>
                     <div className="text-2xl sm:text-3xl md:text-4xl font-bold mt-2">
                         <div>
-                            Welcome to my Website!
+                            Welcome to my portfolio!
                         </div>
                     </div>
                 </h1>

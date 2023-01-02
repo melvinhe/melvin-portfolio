@@ -1,5 +1,5 @@
 import 'tailwindcss/tailwind.css'
-import DarkModeContext from '../utils/create-dark-mode'
+import DarkModeContext from '../features/create-dark-mode'
 import {useEffect, useState} from "react";
 import Head from "next/head";
 

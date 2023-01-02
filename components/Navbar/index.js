@@ -1,6 +1,6 @@
 import socials from '/data/socials.json'
 import Socials from "./Socials";
-import useDarkMode from "../../utils/use-dark-mode";
+import useDarkMode from "../../features/use-dark-mode";
 import Link from "next/link";
 import {useRouter} from "next/router";
 

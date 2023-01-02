@@ -1,5 +1,5 @@
 import {Dialog} from '@headlessui/react'
-import useDarkMode from "../utils/use-dark-mode";
+import useDarkMode from "../features/use-dark-mode";
 
 export default function ProjectInfoDialog({isOpen, project = {}, onClose}) {
     const [darkMode] = useDarkMode();

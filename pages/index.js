@@ -1,14 +1,14 @@
 import PageTemplate from "../components/PageTemplate"
 import salutations from "../features/salutations"
+import Section from "../components/Section"
+import projects from "../data/projects"
+import skills from "../data/skills"
+import experience from "../data/experiences"
+import researches from "../data/researches"
 import Projects from "../components/PageSections/Projects"
 import Experiences from "../components/PageSections/Experiences"
 import Researches from "../components/PageSections/Researches"
 import Skills from "../components/PageSections/Skills"
-import Section from "../components/Section"
-import projects from "../data/projects"
-import experiences from "../data/experiences"
-import skills from "../data/skills"
-import researches from "../data/researches"
 
 
 export default function Home() {
@@ -27,6 +27,26 @@ export default function Home() {
                     I'm a sophomore studying Applied Mathematics-Computer Science at Brown 
                     University passionate about exploring cutting-edge technology and improving education.                </p>
             </div>
+            {/*Projects section*/}
+            <Section title="Projects">
+                <Projects projects={projects}/>
+            </Section>
+
+            {/*Experience section*/}
+            <Section title="Experience">
+                <Experiences experiences={experience}/>
+            </Section>
+
+            {/*Research section*/}
+            <Section title="Research">
+                <Researches researches={researches}/>
+            </Section>
+
+            {/*Skills section*/}
+            <Section title="Skills">
+                <Skills skills={skills}/>
+            </Section>
         </div>
+        
     </PageTemplate>
 }

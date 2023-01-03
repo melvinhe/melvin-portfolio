@@ -1,6 +1,6 @@
 [
     {
-        "title":"Languages",
+        "title":"Programming Languages",
         "items":[
             "Python",
             "Java",
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "title":"Other Tools and Services",
+        "title":"Other Technologies",
         "items":[
             "Numpy",
             "OpenCV",
@@ -27,10 +27,21 @@
             "Jira",
             "Git",
             "LaTeX",
-            "MS Office Suite",
-            "Google Suite",
             "Jupyter Notebook",
-            "Selenium"
+            "Selenium",
+            "Firebase",
+            "React",
+            "Next.js",
+            "Tailwind CSS",
+            "Bootstrap"
+        ]
+    },
+    {
+        "title": "Natural Languages",
+        "items": [
+            "English (Native)",
+            "Chinese (Native)",
+            "Spanish (Limited working proficiency)"
         ]
     }
 ]

@@ -1,10 +1,11 @@
 [
     {
-        "title":"Incoming Software Engineering Intern",
-        "company":"Fidelity",
-        "location":"Smithsfield, RI",
-        "start":"June 2023",
-        "end":"August 2023",
-        "description":"Worked on the Fidelity Mobile App..."
+        "title":"Research Assistant and Educator",
+        "company":"Sunovion Pharmaceuticals",
+        "location":"Marlborough, MA",
+        "start":"February 2021",
+        "end":"June 2021",
+        "image": "images/about.png",
+        "description":"I researched synaptic plasticity, divisions of the central nervous system, and the effects of sleep on declarative and nondeclarative memory with a team of scientists at Sunovion. I also helped develop and teach a course on the brain and memory to high school students at the Advanced Math and Science Academy in Marlborough."
     }
 ]

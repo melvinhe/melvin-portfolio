@@ -24,7 +24,7 @@ export default function ProjectInfoDialog({isOpen, project = {}, onClose}) {
                         Close
                     </span>
                     </button>
-                    <img src={project.image} className="w-full h-64 sm:h-96 object-cover" alt=""/>
+                    <img src={project.image_back} className="w-full h-64 sm:h-96 object-cover" alt=""/>
                     <div className="p-6">
                         <Dialog.Title
                             className="">

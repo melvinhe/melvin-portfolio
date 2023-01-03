@@ -2,9 +2,17 @@
     {
         "title":"Time Tracker",
         "description":"Web app that lets Brown University students track, visualize, and compare how much time they spend on specific classes",
-        "image":"project_images/nelsonbot.jpg",
+        "image_front":"images/TimeTracker5.png",
+        "image_back":"images/TimeTracker3.png",
         "href":"https://github.com/melvinhe/TimeTracker",
         "stack": [
+          "TypeScript",
+          "Java",
+          "Python",
+          "CSS",
+          "JavaScript",
+          "HTML",
+          "Shell",
           "Firebase",
           "Next.js",
           "React",
@@ -12,5 +20,20 @@
           "Selenium",
           "Java"
         ]
+      },
+      {
+        "title": "Sticky Sign",
+        "description": "Web app that lets users create and share sticky notes",
+        "image_front": "images/StickySign0.png",
+        "image_back": "images/StickySign2.png",
+        "href": "https://devpost.com/software/stickysign",
+        "stack": [
+          "Python",
+          "AR",
+          "OpenCV",
+          "M"
+
+        ]
+
       }
 ]

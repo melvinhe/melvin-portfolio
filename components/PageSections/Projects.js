@@ -16,7 +16,7 @@ function Projects({projects}) {
                                                    focus:outline-none focus:shadow-xl duration-200">
                 <div className="flex-shrink-0 w-full">
                     <img className="h-56 w-full object-cover pointer-events-none"
-                         src={project.image}
+                         src={project.image_front}
                          alt=""/>
                 </div>
                 <div className="flex-1 bg-white dark:bg-gray-800 p-6 flex flex-col justify-between">

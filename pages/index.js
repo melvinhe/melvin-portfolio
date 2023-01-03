@@ -32,14 +32,14 @@ export default function Home() {
                 <Projects projects={projects}/>
             </Section>
 
-            {/*Experience section*/}
-            <Section title="Experience">
-                <Experiences experiences={experience}/>
-            </Section>
-
             {/*Research section*/}
             <Section title="Research">
                 <Researches researches={researches}/>
+            </Section>
+
+            {/*Experience section*/}
+            <Section title="Experience">
+                <Experiences experiences={experience}/>
             </Section>
 
             {/*Skills section*/}

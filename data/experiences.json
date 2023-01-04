@@ -8,13 +8,13 @@
         "image": "/logos/Fidelity.png"
     },
     {
-        "title": "Full Stack Developer",
-        "company": "Full Stack at Brown",
-        "location": "Providence, RI",
-        "start": "February 2022",
-        "end": "Present",
-        "description": "Collaborated with peers to develop websites, applications, etc. for organizations around Brown's campus.",
-        "image": "/logos/FSAB.png"
+        "title":"Undergraduate Teaching Assistant",
+        "company":"Brown University",
+        "location":"Providence, RI",
+        "start":"January 2023",
+        "end":"Present",
+        "description":"Assisted students in learning the fundamentals of Computer Vision through weekly office hours, lectures, and lab sessions.",
+        "image": "/logos/Brown.png"
     },
     {
         "title":"Software Engineering Intern",
@@ -24,6 +24,15 @@
         "end":"August 2022",
         "description":"Leveraged AWS EC2, Mocha framework, and XML & SPC data files to designed testing framework for Raman Spectrometer device.",
         "image": "/logos/ThermoFisher.png"
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "Full Stack at Brown",
+        "location": "Providence, RI",
+        "start": "February 2022",
+        "end": "Present",
+        "description": "Collaborated with peers to develop websites, applications, etc. for organizations around Brown's campus.",
+        "image": "/logos/FSAB.png"
     },
     {
         "title":"STEM Research & Development Intern",

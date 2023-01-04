@@ -17,8 +17,7 @@
           "Next.js",
           "React",
           "Tailwind CSS",
-          "Selenium",
-          "Java"
+          "Selenium"
         ]
       },
       {
@@ -52,6 +51,21 @@
           "Numpy",
           "Pandas"
         ]
+      },
+      {
+        "title": "Zafra",
+        "description": "A proof of concept online literary journal, communal idea space, and marketplace designed as a platform for artist collaboration.",
+        "image_front": "images/Zafra1.png",
+        "image_back": "images/Zafra2.2.png",
+        "href": "https://github.com/fullstackatbrown/project-zafra",
+        "stack": [
+          "TypeScript",
+          "CSS",
+          "JavaScript",
+          "Firebase",
+          "Next.js",
+          "Vercel",
+          "Stripe"
+        ]
       }
-
 ]

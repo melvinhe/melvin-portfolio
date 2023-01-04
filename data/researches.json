@@ -1,11 +1,28 @@
 [
+    {   
+        "title": "Undergraduate Research Assistant",
+        "company": "Harvard University",
+        "start": "January 2023",
+        "end": "Present",
+        "image": "logos/Harvard.png",
+        "description": "I worked on coding for an Instructional Explanations Project on education research on Mathematical teaching in elementary schools. I also explored Natural Language Processing research for translating speech to text for research data on measuring the conceptual teaching of mathematics."
+    },
+    {
+        "title": "Data Research Analyst",
+        "company": "Bootstrap:Data Science",
+        "location": "Providence, RI",
+        "start": "December 2021",
+        "end": "January 2021",
+        "image": "logos/Bootstrap.png",
+        "description": "I worked with a team of data scientists to craft research-based data modules using Pyret. I worked on collecting and analyzing Colleges in the US data for Bootstrap:Data Science's teaching curriculum."
+    },
     {
         "title":"Research Assistant and Educator",
         "company":"Sunovion Pharmaceuticals",
         "location":"Marlborough, MA",
         "start":"February 2021",
         "end":"June 2021",
-        "image": "images/about.png",
+        "image": "logos/Sunovion.png",
         "description":"I researched synaptic plasticity, divisions of the central nervous system, and the effects of sleep on declarative and nondeclarative memory with a team of scientists at Sunovion. I also helped develop and teach a course on the brain and memory to high school students at the Advanced Math and Science Academy in Marlborough."
     }
 ]

@@ -4,13 +4,34 @@
         "company":"Fidelity",
         "location":"Smithsfield, RI",
         "start":"June 2023",
-        "end":"August 2023"
+        "end":"August 2023",
+        "image": "/logos/Fidelity.png"
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "Full Stack at Brown",
+        "location": "Providence, RI",
+        "start": "February 2022",
+        "end": "Present",
+        "description": "Collaborated with peers to develop websites, applications, etc. for organizations around Brown's campus.",
+        "image": "/logos/FSAB.png"
     },
     {
         "title":"Software Engineering Intern",
         "company":"Thermo Fisher Scientific",
         "location":"Tewksbury, MA",
         "start":"May 2022",
-        "end":"August 2022"
+        "end":"August 2022",
+        "description":"Leveraged AWS EC2, Mocha framework, and XML & SPC data files to designed testing framework for Raman Spectrometer device.",
+        "image": "/logos/ThermoFisher.png"
+    },
+    {
+        "title":"STEM Research & Development Intern",
+        "company":"Thermo Fisher Scientific",
+        "location":"Franklin, MA",
+        "start":"July 2021",
+        "end":"August 2021",
+        "description":"Designed wireframes and implemented a responsive front end scheduling interface for AersolSense Sampler machine.",
+        "image": "/logos/ThermoFisher.png"
     }
 ]

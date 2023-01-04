@@ -23,7 +23,6 @@
             "TensorFlow",
             "Docker",
             "Confluence",
-            "AWS",
             "Jira",
             "Git",
             "LaTeX",
@@ -33,6 +32,8 @@
             "React",
             "Next.js",
             "Tailwind CSS",
+            "Firebase",
+            "Docker",
             "Bootstrap"
         ]
     },

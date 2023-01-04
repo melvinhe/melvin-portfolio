@@ -2,7 +2,7 @@
     {
         "title":"Time Tracker",
         "description":"Web app that lets Brown University students track, visualize, and compare how much time they spend on specific classes",
-        "image_front":"images/TimeTracker5.png",
+        "image_front":"images/TimeTracker0.png",
         "image_back":"images/TimeTracker3.png",
         "href":"https://github.com/melvinhe/TimeTracker",
         "stack": [
@@ -23,7 +23,7 @@
       },
       {
         "title": "Sticky Sign",
-        "description": "Web app that lets users create and share sticky notes",
+        "description": "An IoT environment designed using OpenCV, 3D projectors, and Sticky Notes to create an AR that gamifies learning American Sign Language",
         "image_front": "images/StickySign0.png",
         "image_back": "images/StickySign2.png",
         "href": "https://devpost.com/software/stickysign",
@@ -31,9 +31,27 @@
           "Python",
           "AR",
           "OpenCV",
-          "M"
-
+          "Machine Learning",
+          "Pygame",
+          "IoT"
         ]
-
+      },
+      {
+        "title": "CNN Breast Cancer Bias Detection",
+        "description": "Convolutional neural network model that detects bias in breast cancer diagnosis using patch-based histopathology images",
+        "image_front": "images/BreastCancer0.png",
+        "image_back": "images/BreastCancer1.png",
+        "href": "https://github.com/lbriody/cs1430-final-project",
+        "stack": [
+          "Python",
+          "Machine Learning",
+          "TensorFlow",
+          "Keras",
+          "Google Colab",
+          "Jupyter Notebook",
+          "Numpy",
+          "Pandas"
+        ]
       }
+
 ]

@@ -1,7 +1,7 @@
 [
     {
         "title":"Incoming Software Engineering Intern",
-        "company":"Fidelity",
+        "company":"Fidelity Investments",
         "location":"Smithsfield, RI",
         "start":"June 2023",
         "end":"August 2023",
@@ -11,7 +11,7 @@
         "title":"Undergraduate Teaching Assistant",
         "company":"Brown University",
         "location":"Providence, RI",
-        "start":"January 2023",
+        "start":"October 2022",
         "end":"Present",
         "description":"Assisted students in learning the fundamentals of Computer Vision through weekly office hours, lectures, and lab sessions.",
         "image": "/logos/Brown.png"

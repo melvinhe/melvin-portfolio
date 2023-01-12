@@ -25,7 +25,7 @@ export default function Home() {
                 </h1>
                 <p className="max-w-4xl mt-5 text-lg md:text-xl text-gray-500 dark:text-gray-400">
                     I'm a sophomore studying Applied Mathematics and Computer Science at Brown 
-                    University with a passion for exploring technology and education.                </p>
+                    University with a great passion for technology and education.                </p>
             </div>
             {/*Projects section*/}
             <Section title="Projects">

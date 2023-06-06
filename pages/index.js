@@ -19,13 +19,13 @@ export default function Home() {
                     <span className="max-w-4xl mt-5 text-lg md:text-xl">{salutations()}, I'm Melvin He.</span>
                     <div className="text-2xl sm:text-3xl md:text-4xl font-bold mt-2">
                         <div>
-                            Welcome to my portfolio!
+                            Welcome to my Web Portfolio!
                         </div>
                     </div>
                 </h1>
                 <p className="max-w-4xl mt-5 text-lg md:text-xl text-gray-500 dark:text-gray-400">
-                    I'm a sophomore studying Applied Mathematics and Computer Science at Brown 
-                    University with a great passion for technology and education.                </p>
+                    I'm a rising junior studying Applied Mathematics and Computer Science at Brown 
+                    University with a great passion for technology, mathematics, and education.                </p>
             </div>
             {/*Projects section*/}
             <Section title="Projects">
@@ -33,7 +33,7 @@ export default function Home() {
             </Section>
 
             {/*Research section*/}
-            <Section title="Research">
+            <Section title="Research & Education">
                 <Researches researches={researches}/>
             </Section>
 

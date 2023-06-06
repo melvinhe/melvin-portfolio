@@ -1,6 +1,6 @@
 [
     {
-        "title":"Incoming Software Engineering Intern",
+        "title":"LEAP Software Engineering Intern",
         "company":"Fidelity Investments",
         "location":"Smithsfield, RI",
         "start":"June 2023",
@@ -8,12 +8,12 @@
         "image": "/logos/Fidelity.png"
     },
     {
-        "title":"Undergraduate Teaching Assistant",
+        "title":"Sunlab Systems Consultant",
         "company":"Brown University",
         "location":"Providence, RI",
-        "start":"January 2023",
+        "start":"May 2023",
         "end":"Present",
-        "description":"Assisted students in learning the fundamentals of Computer Vision through weekly office hours, lectures, and lab sessions.",
+        "description":"Served as a paid technical consultant for Brown's system administration and department machines.",
         "image": "/logos/Brown.png"
     },
     {
@@ -22,7 +22,7 @@
         "location":"Tewksbury, MA",
         "start":"May 2022",
         "end":"August 2022",
-        "description":"Leveraged AWS EC2, Mocha framework, and XML & SPC data files to designed testing framework for Raman Spectrometer device.",
+        "description":"Leveraged AWS to manage company's cloud structure and deploy GitHub Actions workflows. Built JavaScript unit tests for Ramina Server codebase using Mocha framework. Designed and executed tests for Raman Spectroscopy device using Model XML and SPC file simulations.",
         "image": "/logos/ThermoFisher.png"
     },
     {
@@ -30,17 +30,17 @@
         "company": "Full Stack at Brown",
         "location": "Providence, RI",
         "start": "February 2022",
-        "end": "Present",
+        "end": "May 2023",
         "description": "Collaborated with peers to develop websites, applications, etc. for organizations around Brown's campus.",
         "image": "/logos/FSAB.png"
     },
     {
-        "title":"STEM Research & Development Intern",
+        "title":"STEM R&D Intern",
         "company":"Thermo Fisher Scientific",
         "location":"Franklin, MA",
         "start":"July 2021",
         "end":"August 2021",
-        "description":"Designed wireframes and implemented a responsive front end scheduling interface for AersolSense Sampler machine.",
+        "description":"Built an in-air pathogen (COVID-19) scheduler for the new AerosolSense Sampler prototype using wireframe mockup with Bootstrap JS implementation. Upgraded SourceTree and Jira documentation processes to improve company workflows.",
         "image": "/logos/ThermoFisher.png"
     }
 ]

@@ -1,11 +1,36 @@
 [
+    
+    {   
+        "title": "Artificial Intelligence Teaching Assistant",
+        "company": "Brown University",
+        "start": "May 2023",
+        "end": "Present",
+        "image": "logos/BrownCS.png",
+        "description": ""
+    },
+    {   
+        "title": "IgniteCS Program Organizer",
+        "company": "Google",
+        "start": "January 2022",
+        "end": "May 2023",
+        "image": "logos/Google.png",
+        "description": "Led, taught, and organized Google's IgniteCS chapter in Providence, Rhode Island."
+    },
+    {   
+        "title": "Computer Vision Teaching Assistant",
+        "company": "Brown University",
+        "start": "January 2023",
+        "end": "May 2023",
+        "image": "logos/BrownCS.png",
+        "description": "Built, taught, and graded course materials for 150+ students (more than 50% graduates or seniors)."
+    },
     {   
         "title": "Undergraduate Research Assistant",
         "company": "Harvard University",
         "start": "October 2022",
-        "end": "Present",
+        "end": "January 2023",
         "image": "logos/Harvard.png",
-        "description": "I worked on coding for an Instructional Explanations Project on education research on Mathematical teaching in elementary schools. I also explored Natural Language Processing research for translating speech to text for research data on measuring the conceptual teaching of mathematics."
+        "description": "Assisted mathematics education research with Professors Heather Hill and Jeanette Coppersmith by integrating Phonic AI platform for NLP to improve manual coding workflows of mathematical education data."
     },
     {
         "title": "Data Research Analyst",

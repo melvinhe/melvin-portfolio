@@ -9,14 +9,6 @@
         "description": ""
     },
     {   
-        "title": "IgniteCS Program Organizer",
-        "company": "Google",
-        "start": "January 2022",
-        "end": "May 2023",
-        "image": "logos/Google.png",
-        "description": "Led, taught, and organized Google's IgniteCS chapter in Providence, Rhode Island."
-    },
-    {   
         "title": "Computer Vision Teaching Assistant",
         "company": "Brown University",
         "start": "January 2023",
@@ -31,6 +23,14 @@
         "end": "January 2023",
         "image": "logos/Harvard.png",
         "description": "Assisted mathematics education research with Professors Heather Hill and Jeanette Coppersmith by integrating Phonic AI platform for NLP to improve manual coding workflows of mathematical education data."
+    },
+    {   
+        "title": "IgniteCS Program Organizer",
+        "company": "Google",
+        "start": "January 2022",
+        "end": "May 2023",
+        "image": "logos/Google.png",
+        "description": "Led, taught, and organized Google's IgniteCS chapter in Providence, Rhode Island."
     },
     {
         "title": "Data Research Analyst",

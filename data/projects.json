@@ -1,5 +1,25 @@
 [
     {
+      "title":"CogniCents",
+      "description":"A multifaceted AI-driven solution created to equip everyday users with financial proficiency and market expertise.",
+      "image_front":"images/CogniCents.png",
+      "image_back":"images/CogniVest.png",
+      "href":"https://github.com/melvinhe/Cogni-Cents",
+      "stack": [
+        "TypeScript",
+        "Java",
+        "Python",
+        "JavaScript",
+        "HTML",
+        "Next.js",
+        "Tailwind CSS",
+        "OpenAI",
+        "DistilBERT",
+        "AWS",
+        "FastAPI"
+      ]
+    },
+    {
         "title":"Time Tracker",
         "description":"Web app that lets Brown University students track, visualize, and compare how much time they spend on specific classes",
         "image_front":"images/TimeTracker0.png",
@@ -9,7 +29,6 @@
           "TypeScript",
           "Java",
           "Python",
-          "CSS",
           "JavaScript",
           "HTML",
           "Shell",
@@ -37,13 +56,12 @@
       },
       {
         "title": "CNN Breast Cancer Bias Detection",
-        "description": "Convolutional neural network model that detects bias in breast cancer diagnosis using patch-based histopathology images",
+        "description": "Deep learning model that detects bias in breast cancer diagnosis using patch-based histopathology images",
         "image_front": "images/BreastCancer0.png",
         "image_back": "images/BreastCancer1.png",
         "href": "https://github.com/lbriody/cs1430-final-project",
         "stack": [
           "Python",
-          "Machine Learning",
           "TensorFlow",
           "Keras",
           "Google Colab",
@@ -65,6 +83,7 @@
           "Firebase",
           "Next.js",
           "Vercel",
+          "MongoDB",
           "Stripe"
         ]
       }

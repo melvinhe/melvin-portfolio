@@ -13,13 +13,12 @@ import Skills from "../components/PageSections/Skills"
 
 export default function Home() {
     return <PageTemplate>
-        <div className="space-y-24">
+        <div className="space-y-14">
             <div>
                 <h1 className="text-gray-900 dark:text-white">
                 <span className="max-w-4xl mt-5 text-lg md:text-xl">
                 {salutations()}, I'm <span className="text-yellow-500 dark:text-yellow-400">Melvin He</span>.
                 </span>
-
                     <div className="text-2xl sm:text-3xl md:text-4xl font-bold text-green-500 dark:text-green-400 mt-2">
                         <div>
                             Welcome to my Personal Projects Portfolio!
@@ -28,7 +27,7 @@ export default function Home() {
                 </h1>
                 <p className="max-w-4xl mt-5 text-lg md:text-xl text-green-800 dark:text-green-700">
                     I'm a rising junior at Brown University studying Applied Mathematics and Computer Science
-                    passionate about using technology for social good. Feel free to check out my projects, research, 
+                    passionate about using technology for social good. Please check out my projects, research, 
                     education, and technical experiences below.
                 </p>
             </div>

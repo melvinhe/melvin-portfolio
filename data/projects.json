@@ -1,5 +1,19 @@
 [
     {
+      "title":"Ghana Health Services EHR",
+      "description":"A mobile primary healthcare service engineered to facilitate maternal and child healthcare access in rural Ghana.",
+      "image_front":"images/GHS.png",
+      "image_back":"images/GHS.png",
+      "href":"https://github.com/fullstackatbrown/project-dewb",
+      "stack": [
+        "React Native",
+        "JavaScript",
+        "Expo Go",
+        "Figma",
+        "Firebase"
+      ]
+    },
+    {
       "title":"CogniCents",
       "description":"A multifaceted AI-driven solution created to equip everyday users with financial proficiency and market expertise.",
       "image_front":"images/CogniCents.png",
@@ -21,7 +35,7 @@
     },
     {
         "title":"Time Tracker",
-        "description":"Web app that lets Brown University students track, visualize, and compare how much time they spend on specific classes",
+        "description":"Web app that lets Brown University students track, visualize, and compare how much time they spend on specific classes.",
         "image_front":"images/TimeTracker0.png",
         "image_back":"images/TimeTracker3.png",
         "href":"https://github.com/melvinhe/TimeTracker",
@@ -41,7 +55,7 @@
       },
       {
         "title": "Sticky Sign",
-        "description": "An IoT environment designed using OpenCV, 3D projectors, and Sticky Notes to create an AR that gamifies learning American Sign Language",
+        "description": "An IoT environment designed using OpenCV, 3D projectors, and Sticky Notes to create an AR that gamifies learning American Sign Language.",
         "image_front": "images/StickySign0.png",
         "image_back": "images/StickySign2.png",
         "href": "https://devpost.com/software/stickysign",
@@ -56,7 +70,7 @@
       },
       {
         "title": "CNN Breast Cancer Bias Detection",
-        "description": "Deep learning model that detects bias in breast cancer diagnosis using patch-based histopathology images",
+        "description": "Deep learning model that detects breast cancer diagnosis using patch-based histopathology images up to 80.13% accuracy.",
         "image_front": "images/BreastCancer0.png",
         "image_back": "images/BreastCancer1.png",
         "href": "https://github.com/lbriody/cs1430-final-project",

@@ -1,6 +1,6 @@
 [
     {
-        "title":"LEAP Software Engineering Intern",
+        "title":"LEAP Software Engineer Intern",
         "company":"Fidelity Investments",
         "location":"Smithsfield, RI",
         "start":"June 2023",
@@ -8,7 +8,7 @@
         "image": "/logos/Fidelity.png"
     },
     {
-        "title":"Sunlab Systems Consultant",
+        "title":"Systems Consultant",
         "company":"Brown University",
         "location":"Providence, RI",
         "start":"May 2023",
@@ -17,7 +17,7 @@
         "image": "/logos/BrownCS.png"
     },
     {
-        "title":"Software Engineering Intern",
+        "title":"Cloud Engineer Intern",
         "company":"Thermo Fisher Scientific",
         "location":"Tewksbury, MA",
         "start":"May 2022",
@@ -35,7 +35,7 @@
         "image": "/logos/FSAB.png"
     },
     {
-        "title":"STEM R&D Intern",
+        "title":"Software Development Intern",
         "company":"Thermo Fisher Scientific",
         "location":"Franklin, MA",
         "start":"July 2021",

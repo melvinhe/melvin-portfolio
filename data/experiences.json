@@ -1,20 +1,30 @@
 [
     {
+        "title":"Incoming Systems Consultant",
+        "company":"Brown University",
+        "location":"Providence, RI",
+        "start":"September 2023",
+        "end":"January 2024",
+        "description":"Serving as Brown University's paid technical consultant for system administration, SunLab, and department machines.",
+        "image": "/logos/BrownCS.png"
+    },
+    {
         "title":"Full Stack Software Engineer Intern",
         "company":"Fidelity Investments",
-        "location":"Smithsfield, RI",
+        "location":"Smithfield, RI",
         "start":"June 2023",
         "end":"August 2023",
+        "description":"Currently working on agile full stack development and data migration within the financial services industry.",
         "image": "/logos/Fidelity.png"
     },
     {
-        "title":"Systems Consultant",
-        "company":"Brown University",
-        "location":"Providence, RI",
-        "start":"May 2023",
-        "end":"Present",
-        "description":"Served as a paid technical consultant for Brown's system administration and department machines.",
-        "image": "/logos/BrownCS.png"
+        "title":"UX Product Designer",
+        "company":"Jara Unit",
+        "location":"Stanford, CA",
+        "start":"April 2023",
+        "end":"August 2023",
+        "description":"Designing and engineering a new user interface for the nonprofit startup's portable new IOT device product launch",
+        "image": "/logos/Jara.png"
     },
     {
         "title":"Cloud Engineer Intern",

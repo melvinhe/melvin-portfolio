@@ -14,6 +14,20 @@
       ]
     },
     {
+      "title":"Ghana Health Services EHR",
+      "description":"A mobile primary healthcare service engineered to facilitate maternal and child healthcare access in rural Ghana.",
+      "image_front":"images/GHS.png",
+      "image_back":"images/GHS.png",
+      "href":"https://github.com/fullstackatbrown/project-dewb",
+      "stack": [
+        "React Native",
+        "JavaScript",
+        "Expo Go",
+        "Figma",
+        "Firebase"
+      ]
+    },
+    {
       "title":"CogniCents",
       "description":"A multifaceted AI-driven solution created to equip everyday users with financial proficiency and market expertise.",
       "image_front":"images/CogniCents.png",

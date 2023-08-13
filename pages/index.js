@@ -26,21 +26,20 @@ export default function Home() {
                     </div>
                 </h1>
                 <p className="max-w-4xl mt-5 text-lg md:text-xl text-green-800 dark:text-green-700">
-                    I'm a rising junior at Brown University studying Applied Mathematics and Computer Science
-                    passionate about using technology for social good. Please check out my projects, research, 
-                    education, and technical experiences below.
+                    I'm a Computer Science student at Brown University passionate about using technology to drive innovation 
+                    and promote social good. Check out my experience, research, education, and projects below!
                 </p>
             </div>
-            <Section title="Projects">
-                <Projects projects={projects}/>
+            <Section title="Experience">
+                <Experiences experiences={experience}/>
             </Section>
 
             <Section title="Research & Education">
                 <Researches researches={researches}/>
             </Section>
 
-            <Section title="Experience">
-                <Experiences experiences={experience}/>
+            <Section title="Projects">
+                <Projects projects={projects}/>
             </Section>
 
             <Section title="Skills">

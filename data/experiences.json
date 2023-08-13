@@ -3,9 +3,9 @@
         "title":"Systems Administrative (Sunlab) Consultant",
         "company":"Brown University",
         "location":"Providence, RI",
-        "start":"September 2023",
-        "end":"January 2024",
-        "description":"Delivering a 5x time efficiency boost through Dockerizing student setup workflows and department machine management.Empowering seamless remote login (via SSH and FastX) while managing diverse programs on Brown’s Linux systems.",
+        "start":"May 2023",
+        "end":"Present",
+        "description":"I am working as a technical engineer and consultant for the Brown CS Department on responsibilities like orchestrating student setup workflow containers, managing department machines, and empowering network & security protocols. ",
         "image": "/logos/BrownCS.png"
     },
     {
@@ -14,7 +14,7 @@
         "location":"Smithfield, RI",
         "start":"June 2023",
         "end":"August 2023",
-        "description":"Currently working on agile full stack development and data migration within the financial services industry.",
+        "description":"I worked on an agile development team to migrate Fidelity Institutional's JSP-based website to Angular with Sitecore as a CMS, contributing signficantly to ETF bricklet design, API development, Jenkins & Terraform CI/CD pipelines, cloud architecture, and unit/integration testing. During this internship, I also took rotational roles to learn about SwiftUI blockchain app development in Fidelity Labs (Fidelity's startup incubator) as well as quantitative equity trading and UI/UX platform design with Fidelity Capital Markets (Fidelity's innovative trading arm).",
         "image": "/logos/Fidelity.png"
     },
     {
@@ -23,7 +23,7 @@
         "location":"Stanford, CA",
         "start":"April 2023",
         "end":"August 2023",
-        "description":"Designing and engineering a new user interface for the nonprofit startup's portable new IOT device product launch",
+        "description":"I worked directly with the CEO Soraya Fouladi on designing and engineering a new user interface for the nonprofit startup's portable global electronic learning device. I contributed on cultural sensitivity, demographic analysis, color-blind awareness, feature scoping, Figma wireframing, data architecture, agile project management, and React development.",
         "image": "/logos/Jara.png"
     },
     {
@@ -32,7 +32,7 @@
         "location":"Tewksbury, MA",
         "start":"May 2022",
         "end":"August 2022",
-        "description":"Leveraged AWS to manage company's cloud structure and deploy GitHub Actions workflows. Built JavaScript unit tests for Ramina Server codebase using Mocha framework. Designed and executed tests for Raman Spectroscopy device using Model XML and SPC file simulations.",
+        "description":"I mentored junior software engineer interns in Agile & Scrum methodologies, testing frameworks, and project presentation. In addition, I worked on a devops team on a software data visualization solution for a Raman Spectrometer chemical instrument device, contributing with launching AWS cloud resources, configuring Github Actions CI/CD pipelines, and designing a unit/manual testing framework using Model XML/SPC chemical simulations.",
         "image": "/logos/ThermoFisher.png"
     },
     {
@@ -41,7 +41,7 @@
         "location": "Providence, RI",
         "start": "February 2022",
         "end": "May 2023",
-        "description": "Collaborated with peers to develop websites, applications, etc. for organizations around Brown's campus.",
+        "description": "As a developer for this student organization, I contributed to projects like Ghana Health Services Home Visits React Native mobile app for the government agency as well as other meaningful projects like Brown CS Hours TA queue, Zafra literary journal, and The Critical Review (the go-to student course shopping resource at Brown with professor ratings, average & max weekly hours, and course descriptions).",
         "image": "/logos/FSAB.png"
     },
     {
@@ -50,7 +50,7 @@
         "location":"Franklin, MA",
         "start":"July 2021",
         "end":"August 2021",
-        "description":"Built an in-air pathogen (COVID-19) scheduler for the new AerosolSense Sampler prototype using wireframe mockup with Bootstrap JS implementation. Upgraded SourceTree and Jira documentation processes to improve company workflows.",
+        "description":"I designed and built a frontend responsive scheduling interface from scratch for the AerosolSense Sampler (an in-air COVID/pathogen detector) using BootstrapUI framework and used a BeagleBone, C++, and electrical circuits to integrate the machine's hardware components with its scheduling microservice. I also streamlined the Agile development onboarding workflow by upgrading SourceTree, Confluence, and Jira documentation accordingly.",
         "image": "/logos/ThermoFisher.png"
     }
 ]

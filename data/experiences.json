@@ -1,11 +1,13 @@
 [
     {
-        "title":"Incoming Systems Consultant",
+        "title":"Systems Administrative (Sunlab) Consultant",
         "company":"Brown University",
         "location":"Providence, RI",
         "start":"September 2023",
         "end":"January 2024",
-        "description":"Serving as Brown University's paid technical consultant for system administration, SunLab, and department machines.",
+        "description":"● Delivering a 5x time efficiency boost through Dockerizing student setup workflows and department machine management.
+
+        ● Empowering seamless remote login (via SSH and FastX) while managing diverse programs on Brown’s Linux systems.",
         "image": "/logos/BrownCS.png"
     },
     {

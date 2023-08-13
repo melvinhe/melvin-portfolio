@@ -5,9 +5,7 @@
         "location":"Providence, RI",
         "start":"September 2023",
         "end":"January 2024",
-        "description":"● Delivering a 5x time efficiency boost through Dockerizing student setup workflows and department machine management.
-
-        ● Empowering seamless remote login (via SSH and FastX) while managing diverse programs on Brown’s Linux systems.",
+        "description":"Delivering a 5x time efficiency boost through Dockerizing student setup workflows and department machine management.Empowering seamless remote login (via SSH and FastX) while managing diverse programs on Brown’s Linux systems.",
         "image": "/logos/BrownCS.png"
     },
     {
@@ -20,7 +18,7 @@
         "image": "/logos/Fidelity.png"
     },
     {
-        "title":"UX Product Designer",
+        "title":"UX Product Design Lead",
         "company":"Jara Unit",
         "location":"Stanford, CA",
         "start":"April 2023",
@@ -29,7 +27,7 @@
         "image": "/logos/Jara.png"
     },
     {
-        "title":"Cloud Engineer Intern",
+        "title":"Software Engineer Intern",
         "company":"Thermo Fisher Scientific",
         "location":"Tewksbury, MA",
         "start":"May 2022",

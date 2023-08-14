@@ -1,7 +1,7 @@
 [
   {
     "title":"CogniCents",
-    "description":"Machine learning app making finance digestible for retail.",
+    "description":"Machine learning based app making finance digestible for retail.",
     "image_front":"images/CogniCentsScaled.png",
     "image_back":"images/CogniVest.png",
     "href":"https://github.com/melvinhe/Cogni-Cents",
@@ -20,8 +20,18 @@
     ]
   },
   {
-    "title":"Ghana Health Services",
-    "description":"Primary healthcare app for a Ghana government agency.",
+    "title":"Snake",
+    "description":"Revamped arcade retro game coded in C, playable on a Jara Unit.",
+    "image_front":"images/SnakesScaled.png",
+    "image_back":"images/Snake2.png",
+    "href":"https://github.com/melvinhe/Snake-Game",
+    "stack": [
+      "C"
+    ]
+  },
+  {
+    "title":"Ghana Health Services App",
+    "description":"Primary healthcare service built for a Ghana government agency.",
     "image_front":"images/GHSScaled.png",
     "image_back":"images/GHS.png",
     "href":"https://github.com/fullstackatbrown/project-dewb",
@@ -35,17 +45,17 @@
   },
   {
       "title":"Brown CS Hours Queue",
-      "description":"Brown CS website for scheduling TA hours.",
-      "image_front":"images/HoursScaled.png",
+      "description":"Brown CS website for student queueing and scheduling TA hours.",
+      "image_front":"images/CSHoursRescaled.png",
       "image_back":"images/HoursScaled.png",
       "href":"https://hours.cs.brown.edu/",
       "stack": [
-        "C"
+        "Go", "TypeScript"
       ]
     },
     {
       "title":"HealthChain",
-      "description":"Blockchain encrypted electronic health record service.",
+      "description":"A blockchain encryption solution for electronic health records.",
       "image_front":"images/HealthChainScaled.png",
       "image_back":"images/HealthChainScaled.png",
       "href":"https://github.com/melvinhe/HealthChain",
@@ -56,16 +66,6 @@
         "SCSS",
         "Gear",
         "Jupyter Notebook"
-      ]
-    },
-    {
-      "title":"Snake",
-      "description":"Arcade retro game coded in C and playable on a Jara Unit.",
-      "image_front":"images/SnakesScaled.png",
-      "image_back":"images/Snake2.png",
-      "href":"https://github.com/melvinhe/Snake-Game",
-      "stack": [
-        "C"
       ]
     },
     {
@@ -90,7 +90,7 @@
       },
       {
         "title": "Sticky Sign",
-        "description": "Gamified ASL learning environment with Sticky Notes",
+        "description": "A gamified ASL learning environment with Sticky Notes and CV.",
         "image_front": "images/StickySignScaled.png",
         "image_back": "images/StickySign2.png",
         "href": "https://devpost.com/software/stickysign",
@@ -121,7 +121,7 @@
       },
       {
         "title": "Project Zafra",
-        "description": "Proof of concept online literary journal space for artists.",
+        "description": "An online literary journal, blog, and communal space for artists.",
         "image_front": "images/ZafraScaled.png",
         "image_back": "images/Zafra2.2.png",
         "href": "https://github.com/fullstackatbrown/project-zafra",

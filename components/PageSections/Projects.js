@@ -6,21 +6,20 @@ import ProjectInfoDialog from "../ProjectInfoDialog";
 const projectBoxStyles = {
   display: "flex",
   flexDirection: "column",
-  alignItems: "stretch",
+  alignItems: "center",
   border: "1px solid #ccc",
   borderRadius: "20px",
   overflow: "hidden",
-  margin: "20px",
+  margin: "20px"
 };
 
 const imageWrapperStyles = {
-  flex: 10,
+  flex: 30,
 };
 
 const projectImageStyles = {
   width: "800px",
   height: "400px",
-  objectFit: "cover",
   borderRadius: "20px"
 };
 
@@ -62,12 +61,12 @@ function Projects({ projects }) {
         onClose={() => setCurrentProject(undefined)}
         project={currentProject}
       />
-      <div style={{ maxWidth: "100%", margin: "0 auto" }} className="carousel-container">
+      <div style={{ maxWidth: "98%", margin: "0 auto" }} className="carousel-container">
         <Carousel
           selectedItem={carouselIndex}
           onChange={setCarouselIndex}
-          showThumbs={false}
-          showStatus={false}
+          showThumbs={true}
+          showStatus={true}
           showArrows={true}
           infiniteLoop={true}
         >

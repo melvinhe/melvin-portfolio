@@ -18,9 +18,17 @@ const imageWrapperStyles = {
 };
 
 const projectImageStyles = {
-  width: "800px",
-  height: "400px",
+  maxWidth: "100%", // Set maximum width for responsive behavior
   borderRadius: "20px"
+};
+
+// Define a new class for responsive image container
+const responsiveImageWrapper = {
+  ...imageWrapperStyles,
+  "@media (max-width: 768px)": {
+    // Adjust the max-width as needed
+    flex: 100, // Set the full width for smaller screens
+  }
 };
 
 const projectContentStyles = {
@@ -76,7 +84,8 @@ function Projects({ projects }) {
                 onClick={() => setCurrentProject(project)}
                 style={projectBoxStyles}
               >
-                <div style={imageWrapperStyles}>
+                {/* Apply the responsive image wrapper style */}
+                <div style={responsiveImageWrapper}>
                   <img
                     style={projectImageStyles}
                     src={project.image_front}

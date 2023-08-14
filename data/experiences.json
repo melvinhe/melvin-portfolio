@@ -50,7 +50,7 @@
         "location":"Franklin, MA",
         "start":"July 2021",
         "end":"August 2021",
-        "description":"I designed and built a frontend responsive scheduling interface from scratch for the AerosolSense Sampler (an in-air COVID/pathogen detector) using BootstrapUI framework and used a BeagleBone, C++, and electrical circuits to integrate the machine's hardware components with its scheduling microservice. I also streamlined the Agile development onboarding workflow by upgrading SourceTree, Confluence, and Jira documentation accordingly.",
+        "description":"I designed and built a frontend responsive scheduling interface from scratch for the AerosolSense Sampler (an in-air COVID/pathogen detector) using BootstrapUI framework and used a BeagleBone, C++, and electrical circuits to integrate the machine's hardware components with its scheduling microservice. I also streamlined the Agile development onboarding workflow by upgrading SourceTree, Confluence, and Jira documentation.",
         "image": "/logos/ThermoFisher.png"
     }
 ]

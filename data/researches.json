@@ -14,15 +14,15 @@
         "start": "January 2023",
         "end": "May 2023",
         "image": "logos/Brown.png",
-        "description": "Built, taught, and graded course materials for 150+ students (more than 50% graduates or seniors)."
+        "description": "As a teaching assistant for Brown's Computer Vision (CSCI 1430) course, I worked directly with the Professor James Tompkin to craft and lecture interactive socially responsible computing discussion sections where students learn to responsibly architect machine learning & computer vision models, formulate stakeholder defense arguments, and  in a stakeholder  Built, taught, and graded course materials for 150+ students (more than 50% graduates or seniors)."
     },
     {   
-        "title": "Undergraduate Research Assistant",
+        "title": "Mathematics Research Assistant",
         "company": "Harvard University",
         "start": "October 2022",
         "end": "January 2023",
         "image": "logos/Harvard.png",
-        "description": "Assisted mathematics education research with Professors Heather Hill and Jeanette Coppersmith by integrating Phonic AI platform for NLP to improve manual coding workflows of mathematical education data."
+        "description": "I assisted mathematics education research with Professors Heather Hill and Jeanette Coppersmith by integrating natural language processing platforms to improve manual coding workflows of mathematical education data and research."
     },
     {   
         "title": "IgniteCS Program Organizer",
@@ -30,16 +30,16 @@
         "start": "January 2022",
         "end": "May 2023",
         "image": "logos/Google.png",
-        "description": "Led, taught, and organized Google's IgniteCS chapter in Providence, Rhode Island."
+        "description": "As a program organizer for Google's IgniteCS chapter in Providence, I led, taught, and organized computer science learning events for elementary schools in Rhode Island. Through this program, I mentored students in low income communities with concepts like algorithms, robotics, artificial intelligence, and computer literacy at an early age."
     },
     {
-        "title": "Data Research Analyst",
+        "title": "Data Analyst",
         "company": "Bootstrap:Data Science",
         "location": "Providence, RI",
         "start": "December 2021",
         "end": "January 2021",
         "image": "logos/Bootstrap.png",
-        "description": "I worked with a team of data scientists to craft research-based data modules using Pyret. I worked on collecting and analyzing Colleges in the US data for Bootstrap:Data Science's teaching curriculum."
+        "description": "I worked with a team of data scientists to craft research-based, integrated Computer Science and Data Science modules using Pyret for Math, Science, Business, and Social Studies classes in grades 5-12. I worked on collecting, analyzing, and data visualizing Colleges in the US data, assessing for various bias factors and trends across demographics."
     },
     {
         "title":"Research Assistant and Educator",

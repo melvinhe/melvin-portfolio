@@ -8,19 +8,20 @@ const projectBoxStyles = {
   flexDirection: "column",
   alignItems: "stretch",
   border: "1px solid #ccc",
-  borderRadius: "10px",
+  borderRadius: "20px",
   overflow: "hidden",
-  margin: "10px",
+  margin: "20px",
 };
 
 const imageWrapperStyles = {
-  flex: 1,
+  flex: 10,
 };
 
 const projectImageStyles = {
-  width: "100%",
-  height: "auto",
+  width: "800px",
+  height: "400px",
   objectFit: "cover",
+  borderRadius: "20px"
 };
 
 const projectContentStyles = {
@@ -28,14 +29,15 @@ const projectContentStyles = {
 };
 
 const projectTitleStyles = {
-  fontSize: "18px",
+  fontSize: "150%",
   fontWeight: "bold",
-  marginBottom: "5px",
+  color: "#C0A35F",
+  marginBottom: "3px",
 };
 
 const projectDescriptionStyles = {
-  fontSize: "14px",
-  color: "#666",
+  fontSize: "120%",
+  color: "#777",
 };
 
 function Projects({ projects }) {

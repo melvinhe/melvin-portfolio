@@ -1,42 +1,77 @@
 [
-    {
-      "title":"Ghana Health Services EHR",
-      "description":"A mobile primary healthcare service engineered to facilitate maternal and child healthcare access in rural Ghana.",
-      "image_front":"images/GHS.png",
-      "image_back":"images/GHS.png",
-      "href":"https://github.com/fullstackatbrown/project-dewb",
+  {
+    "title":"CogniCents",
+    "description":"Machine learning app making finance digestible for retail.",
+    "image_front":"images/CogniCentsScaled.png",
+    "image_back":"images/CogniVest.png",
+    "href":"https://github.com/melvinhe/Cogni-Cents",
+    "stack": [
+      "TypeScript",
+      "Java",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "Next.js",
+      "Tailwind CSS",
+      "OpenAI",
+      "DistilBERT",
+      "AWS",
+      "FastAPI"
+    ]
+  },
+  {
+    "title":"Ghana Health Services",
+    "description":"Primary healthcare app for a Ghana government agency.",
+    "image_front":"images/GHSScaled.png",
+    "image_back":"images/GHS.png",
+    "href":"https://github.com/fullstackatbrown/project-dewb",
+    "stack": [
+      "React Native",
+      "JavaScript",
+      "Expo Go",
+      "Figma",
+      "Firebase"
+    ]
+  },
+  {
+      "title":"Brown CS Hours Queue",
+      "description":"Brown CS website for scheduling TA hours.",
+      "image_front":"images/HoursScaled.png",
+      "image_back":"images/HoursScaled.png",
+      "href":"https://hours.cs.brown.edu/",
       "stack": [
-        "React Native",
-        "JavaScript",
-        "Expo Go",
-        "Figma",
-        "Firebase"
+        "C"
       ]
     },
     {
-      "title":"CogniCents",
-      "description":"A multifaceted AI-driven solution created to equip everyday users with financial proficiency and market expertise.",
-      "image_front":"images/CogniCents.png",
-      "image_back":"images/CogniVest.png",
-      "href":"https://github.com/melvinhe/Cogni-Cents",
+      "title":"HealthChain",
+      "description":"Blockchain encrypted electronic health record service.",
+      "image_front":"images/HealthChainScaled.png",
+      "image_back":"images/HealthChainScaled.png",
+      "href":"https://github.com/melvinhe/HealthChain",
       "stack": [
         "TypeScript",
-        "Java",
+        "Rust",
         "Python",
-        "JavaScript",
-        "HTML",
-        "Next.js",
-        "Tailwind CSS",
-        "OpenAI",
-        "DistilBERT",
-        "AWS",
-        "FastAPI"
+        "SCSS",
+        "Gear",
+        "Jupyter Notebook"
+      ]
+    },
+    {
+      "title":"Snake",
+      "description":"Arcade retro game coded in C and playable on a Jara Unit.",
+      "image_front":"images/SnakesScaled.png",
+      "image_back":"images/Snake2.png",
+      "href":"https://github.com/melvinhe/Snake-Game",
+      "stack": [
+        "C"
       ]
     },
     {
         "title":"Time Tracker",
-        "description":"Web app that lets Brown University students track, visualize, and compare how much time they spend on specific classes.",
-        "image_front":"images/TimeTracker0.png",
+        "description":"Pomodoro timer & class scheduling solution for college students.",
+        "image_front":"images/TimeTrackerScaled.png",
         "image_back":"images/TimeTracker3.png",
         "href":"https://github.com/melvinhe/TimeTracker",
         "stack": [
@@ -55,8 +90,8 @@
       },
       {
         "title": "Sticky Sign",
-        "description": "An IoT environment designed using OpenCV, 3D projectors, and Sticky Notes to create an AR that gamifies learning American Sign Language.",
-        "image_front": "images/StickySign0.png",
+        "description": "Gamified ASL learning environment with Sticky Notes",
+        "image_front": "images/StickySignScaled.png",
         "image_back": "images/StickySign2.png",
         "href": "https://devpost.com/software/stickysign",
         "stack": [
@@ -69,9 +104,9 @@
         ]
       },
       {
-        "title": "CNN Breast Cancer Bias Detection",
-        "description": "Deep learning model that detects breast cancer diagnosis using patch-based histopathology images up to 80.13% accuracy.",
-        "image_front": "images/BreastCancer0.png",
+        "title": "CNN Breast Cancer Bias",
+        "description": "Deep learning model for detecting breast cancer diagnosis bias.",
+        "image_front": "images/BreastCancerScaled.png",
         "image_back": "images/BreastCancer1.png",
         "href": "https://github.com/lbriody/cs1430-final-project",
         "stack": [
@@ -85,9 +120,9 @@
         ]
       },
       {
-        "title": "Zafra",
-        "description": "A proof of concept online literary journal, communal idea space, and marketplace designed as a platform for artist collaboration.",
-        "image_front": "images/Zafra1.png",
+        "title": "Project Zafra",
+        "description": "Proof of concept online literary journal space for artists.",
+        "image_front": "images/ZafraScaled.png",
         "image_back": "images/Zafra2.2.png",
         "href": "https://github.com/fullstackatbrown/project-zafra",
         "stack": [

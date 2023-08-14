@@ -22,10 +22,10 @@ export default function Home() {
               <span className="glitter-text">Melvin He</span>.
             </span>
             <div className="text-2xl sm:text-3xl md:text-4xl font-bold text-gold-500 dark:text-gold-400 mt-2">
-              <div>Welcome to my Personal Website!</div>
+              <div>Welcome to my Personal Portfolio!</div>
             </div>
           </h1>
-          <p className="max-w-4xl mt-5 text-lg md:text-xl text-gold-800 dark:text-gold-700">
+          <p className="max-w-4xl mt-5 text-lg md:text-xl text-green-800 dark:text-green-700">
             I'm a Computer Science student at Brown University passionate about
             using technology to drive innovation and promote social good. Check
             out my work experience, research, education, and personal projects

@@ -3,6 +3,41 @@ import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import ProjectInfoDialog from "../ProjectInfoDialog";
 
+const projectBoxStyles = {
+  display: "flex",
+  flexDirection: "column",
+  alignItems: "stretch",
+  border: "1px solid #ccc",
+  borderRadius: "10px",
+  overflow: "hidden",
+  margin: "10px",
+};
+
+const imageWrapperStyles = {
+  flex: 1,
+};
+
+const projectImageStyles = {
+  width: "100%",
+  height: "auto",
+  objectFit: "cover",
+};
+
+const projectContentStyles = {
+  padding: "10px",
+};
+
+const projectTitleStyles = {
+  fontSize: "18px",
+  fontWeight: "bold",
+  marginBottom: "5px",
+};
+
+const projectDescriptionStyles = {
+  fontSize: "14px",
+  color: "#666",
+};
+
 function Projects({ projects }) {
   const [currentProject, setCurrentProject] = useState();
   const [carouselIndex, setCarouselIndex] = useState(0);
@@ -11,7 +46,7 @@ function Projects({ projects }) {
   useEffect(() => {
     const interval = setInterval(() => {
       setCarouselIndex((prevIndex) => (prevIndex + 1) % projects.length);
-    }, 5000); // Change slide every 5 seconds
+    }, 8000); // Change slide every 8 seconds
 
     return () => {
       clearInterval(interval);
@@ -25,42 +60,37 @@ function Projects({ projects }) {
         onClose={() => setCurrentProject(undefined)}
         project={currentProject}
       />
-      <Carousel
-        selectedItem={carouselIndex}
-        onChange={setCarouselIndex}
-        showThumbs={false}
-        showStatus={false}
-        showArrows={true}
-        infiniteLoop={true}
-        className="carousel-container"
-      >
-        {projects.map((project, index) => (
-          <div key={index} className="carousel-item">
-            <button
-              onClick={() => setCurrentProject(project)}
-              className="flex select-none text-left flex-col transform rounded-xl shadow-lg border border-gray-100 dark:border-gray-800 overflow-hidden hover:opacity-75 focus:ring-2 ring-blue-600 transition-opacity focus:outline-none focus:shadow-xl duration-200"
-            >
-              <div className="flex-shrink-0 w-full">
-                <img
-                  className="h-56 w-full object-cover pointer-events-none"
-                  src={project.image_front}
-                  alt=""
-                />
-              </div>
-              <div className="flex-1 bg-white dark:bg-gray-800 p-6 flex flex-col justify-between">
-                <div className="flex-1">
-                  <h3 className="text-xl font-semibold text-gray-800 dark:text-white">
-                    {project.title}
-                  </h3>
-                  <p className="mt-1 text-base leading-6 text-gray-500 dark:text-gray-400">
-                    {project.description}
-                  </p>
+      <div style={{ maxWidth: "100%", margin: "0 auto" }} className="carousel-container">
+        <Carousel
+          selectedItem={carouselIndex}
+          onChange={setCarouselIndex}
+          showThumbs={false}
+          showStatus={false}
+          showArrows={true}
+          infiniteLoop={true}
+        >
+          {projects.map((project, index) => (
+            <div key={index} style={projectBoxStyles} className="carousel-item">
+              <button
+                onClick={() => setCurrentProject(project)}
+                style={projectBoxStyles}
+              >
+                <div style={imageWrapperStyles}>
+                  <img
+                    style={projectImageStyles}
+                    src={project.image_front}
+                    alt=""
+                  />
                 </div>
-              </div>
-            </button>
-          </div>
-        ))}
-      </Carousel>
+                <div style={projectContentStyles}>
+                  <h3 style={projectTitleStyles}>{project.title}</h3>
+                  <p style={projectDescriptionStyles}>{project.description}</p>
+                </div>
+              </button>
+            </div>
+          ))}
+        </Carousel>
+      </div>
     </>
   );
 }

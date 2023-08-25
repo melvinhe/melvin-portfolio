@@ -26,10 +26,9 @@ export default function Home() {
             </div>
           </h1>
           <p className="max-w-4xl mt-5 text-lg md:text-xl text-green-800 dark:text-green-700">
-            I'm a Computer Science student at Brown University passionate about
-            using technology to drive innovation and promote social good. Check
-            out my work experience, research, education, and personal projects
-            below!
+            I'm a Computer Science student at Brown University greatly passionate for creative problem solving, 
+            technology, and innovation with experience in full stack development, distributed systems, and machine learning.
+            Check out my technical experience, research, education, and personal projects below!
           </p>
         </div>
         <Section title="Experience">
